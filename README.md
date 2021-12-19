@@ -3,19 +3,18 @@
 <hr/>
 
 
-### I am a Data Engineer and a Data Scientist, currently I am a Senior Data Engineer Walmart Global Tech India.
-- 🔭 I just tried to make a readme file for my github account.<br />
-- 🌱 I’m currently learning Machine Learning and React.<br />
-- 👯 I’m wanting to create more awesome projects.<br />
-- 🥅 2021 Goals: Contribute more to Open Source projects.<br />
-- ⚡ Fun fact: I love to draw Anime character and watch Anime.
+### I am a Data Engineer, currently working with Walmart Global Tech India.
+- 🔭 I have experience in Big Data, Spark, python, scala and Java .<br />
+- 🌱 I have worked on end to end data lake and data pipeline implementation.<br />
+- 👯 I’m working on awesome data engineering and data science projects for community.<br />
+- 🥅 My first project pyspark_boilerplate is availabe in by git repo, check it out!<br />
+- ⚡ Feel free to fork, use evaluate and provide feedback on my projects on github.
 <br/>
 <hr/>
 
 
 
 ### ⚙ Connect with me:
-[<img align="left" alt="subhamrex" width="25px" src="http://pngimg.com/uploads/globe/globe_PNG100096.png" />][website]
 [<img align="left" alt="subhamrex | Twitter" width="25px" src="http://pngimg.com/uploads/twitter/twitter_PNG29.png" />][twitter]
 [<img align="left" alt="subhamrex | LinkedIn" width="25px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png" />][linkedin]
 <br />
@@ -61,3 +60,10 @@
 
 
 [myprofile]:https://github.com/jackshukla7
+[linkedin]:https://www.linkedin.com/in/sanjeetshukla/
+[pycharm]:https://www.jetbrains.com/pycharm/
+[openCV]:https://opencv.org/
+[tensorflow]:https://www.tensorflow.org/
+[git]:https://git-scm.com/
+[python]:https://www.python.org/
+[jupyter]:https://jupyter.org/

@@ -27,8 +27,6 @@
 
 ### ⚙ Languages and Tools:
 
-<br/>
-<br/>
 [<img align="left" alt="TF" width="33px" src="https://i.imgur.com/oGwE8PR.png" />][tensorflow]
 [<img align="left" alt="python" width="33px" src="https://i.imgur.com/gixjL0a.png" />][python]
 [<img align="left" alt="Pycharm" width="33px" src="https://i.imgur.com/N3UnDaG.png" />][pycharm]

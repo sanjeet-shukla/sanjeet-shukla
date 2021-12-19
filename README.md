@@ -6,7 +6,7 @@
 ### I am a Data Engineer, currently working with Walmart Global Tech India.
 - 🔭 I have experience in Big Data, Spark, python, scala and Java .<br />
 - 🌱 I have worked on end to end data lake and data pipeline implementation.<br />
-- 👯 I’m working on awesome data engineering and data science projects for community.<br />
+- 👯 I’m working on data engineering & data science projects for community.<br />
 - 🥅 My first project pyspark_boilerplate is availabe in by git repo, check it out!<br />
 - ⚡ Feel free to fork, use evaluate and provide feedback on my projects on github.
 <br/>
@@ -67,3 +67,4 @@
 [git]:https://git-scm.com/
 [python]:https://www.python.org/
 [jupyter]:https://jupyter.org/
+[twitter]:https://twitter.com/

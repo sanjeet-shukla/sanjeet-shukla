@@ -1,6 +1,4 @@
-### Hi There, My name is Sanjeet Shukla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-[<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="280">][myprofile]
-<hr/>
+### Hi There, My name is Sanjeet Shukla 
 
 
 ### I am a Data Engineer, currently working with Walmart Global Tech India.

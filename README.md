@@ -4,11 +4,11 @@
 
 
 ### I am a Data Engineer, currently working with Walmart.
-- 🔭 I have experience in Big Data, Spark, python, scala and Java .<br />
+- 🔭 I have 5+ Years of experience in Big Data, Spark, Snowflake, Kafka, python, scala and Java .<br />
 - 🌱 I have worked on end to end data lake and data pipeline projects.<br />
 - 👯 I’m working on data engineering & data science projects for community.<br />
 - 🥅 My first project pyspark_boilerplate is availabe in my git repo, check it out!<br />
-- ⚡ Feel free to to reach out to me for any collaboration that can benefit the society.
+- ⚡ Feel free to to reach out to me for any collaboration that can benefit the developercommunity.
 <br/>
 <hr/>
 

@@ -1,4 +1,8 @@
 ### Hi There, My name is Sanjeet <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+[<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="280">][myprofile]
+<hr/>
+
+
 ### I am a Data Engineer, currently looking for Next Job.
 - 🔭 I have 5+ Years of experience in Big Data, Spark, Snowflake, Kafka, python and SQL .<br />
 - 🌱 I have worked on end to end data lake and data pipeline projects.<br />
@@ -7,8 +11,9 @@
 - ⚡ Feel free to reach out to me for any collaboration that can benefit the developercommunity.
 <br/>
 <hr/>
-<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="280">[myprofile]
-<hr/>
+
+
+
 ### ⚙ Connect with me:
 [<img align="left" alt="subhamrex | Twitter" width="25px" src="http://pngimg.com/uploads/twitter/twitter_PNG29.png" />][twitter]
 [<img align="left" alt="subhamrex | LinkedIn" width="25px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png" />][linkedin]
@@ -37,14 +42,14 @@
 
 ### 💳 Language Card
 
-<img align="center" alt="subhamrex's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeetshukla01&&layout=compact&&theme=tokyonight" />
+<img align="center" alt="subhamrex's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeet-shukla&&layout=compact&&theme=tokyonight" />
 
 <br />
 
 <hr/>
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanjeetshukla01&show_icons=true&hide_border=true&hide=stars,prs,issues&theme=radical" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanjeet-shukla&show_icons=true&hide_border=true&hide=stars,prs,issues&theme=radical" />
 </details>
 
 

@@ -3,7 +3,7 @@
 
 
 ### I am a Data Engineer, currently looking for Next Job.
-- 🔭 I have 5+ Years of experience in Big Data, Spark, Snowflake, Kafka, python and SQL .<br />
+- 🔭 I have Years of experience in Big Data, Spark, Snowflake, Kafka, python and SQL .<br />
 - 🌱 I have worked on end to end data lake and data pipeline projects.<br />
 - 👯 I’m working on data engineering & data science projects for community.<br />
 - 🥅 My first project pyspark_boilerplate is availabe in my git repo, check it out!<br />

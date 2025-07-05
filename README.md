@@ -1,4 +1,4 @@
-### Hi There, My name is Sanjeet 
+### Hi There, My name is Sanjeet <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 ### I am a Data Engineer, currently looking for Next Job.
 - 🔭 I have 5+ Years of experience in Big Data, Spark, Snowflake, Kafka, python and SQL .<br />
 - 🌱 I have worked on end to end data lake and data pipeline projects.<br />

@@ -7,7 +7,7 @@
 - ⚡ Feel free to reach out to me for any collaboration that can benefit the developercommunity.
 <br/>
 <hr/>
-[<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="280">][myprofile]
+<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="280">[myprofile]
 <hr/>
 ### ⚙ Connect with me:
 [<img align="left" alt="subhamrex | Twitter" width="25px" src="http://pngimg.com/uploads/twitter/twitter_PNG29.png" />][twitter]

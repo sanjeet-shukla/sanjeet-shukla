@@ -7,9 +7,7 @@
 - ⚡ Feel free to reach out to me for any collaboration that can benefit the developercommunity.
 <br/>
 <hr/>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-[<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="280">][myprofile]
-<hr/>
+
 
 
 ### ⚙ Connect with me:
